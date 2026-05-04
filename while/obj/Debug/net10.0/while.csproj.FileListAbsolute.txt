@@ -1,0 +1,14 @@
+C:\Users\labc205\Desktop\Grupo6progCS\while\bin\Debug\net10.0\while.exe
+C:\Users\labc205\Desktop\Grupo6progCS\while\bin\Debug\net10.0\while.deps.json
+C:\Users\labc205\Desktop\Grupo6progCS\while\bin\Debug\net10.0\while.runtimeconfig.json
+C:\Users\labc205\Desktop\Grupo6progCS\while\bin\Debug\net10.0\while.dll
+C:\Users\labc205\Desktop\Grupo6progCS\while\bin\Debug\net10.0\while.pdb
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.AssemblyInfo.cs
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.dll
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\refint\while.dll
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.pdb
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\while.genruntimeconfig.cache
+C:\Users\labc205\Desktop\Grupo6progCS\while\obj\Debug\net10.0\ref\while.dll
