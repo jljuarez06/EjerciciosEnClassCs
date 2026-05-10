@@ -1,0 +1,14 @@
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\bin\Debug\net10.0\RestaDeVectores.exe
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\bin\Debug\net10.0\RestaDeVectores.deps.json
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\bin\Debug\net10.0\RestaDeVectores.runtimeconfig.json
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\bin\Debug\net10.0\RestaDeVectores.dll
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\bin\Debug\net10.0\RestaDeVectores.pdb
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.AssemblyInfoInputs.cache
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.AssemblyInfo.cs
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.csproj.CoreCompileInputs.cache
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.dll
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\refint\RestaDeVectores.dll
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.pdb
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\RestaDeVectores.genruntimeconfig.cache
+C:\Users\jorge juarez\Desktop\tarea\RestaDeVectores\obj\Debug\net10.0\ref\RestaDeVectores.dll
