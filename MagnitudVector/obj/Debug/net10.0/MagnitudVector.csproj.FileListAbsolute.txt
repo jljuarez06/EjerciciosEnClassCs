@@ -1,0 +1,14 @@
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\bin\Debug\net10.0\MagnitudVector.exe
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\bin\Debug\net10.0\MagnitudVector.deps.json
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\bin\Debug\net10.0\MagnitudVector.runtimeconfig.json
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\bin\Debug\net10.0\MagnitudVector.dll
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\bin\Debug\net10.0\MagnitudVector.pdb
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.AssemblyInfoInputs.cache
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.AssemblyInfo.cs
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.csproj.CoreCompileInputs.cache
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.dll
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\refint\MagnitudVector.dll
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.pdb
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\MagnitudVector.genruntimeconfig.cache
+C:\Users\jorge juarez\Desktop\tarea\MagnitudVector\obj\Debug\net10.0\ref\MagnitudVector.dll
